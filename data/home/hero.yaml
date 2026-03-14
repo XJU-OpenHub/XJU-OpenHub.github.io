@@ -1,6 +1,6 @@
 enable: true
 
-title: "Experienced **mobile and web** applications and website builders measuring."
+title: "新疆大学 **计算机科学与技术专业** 的资源库，旨在为计算机学生提供学习和发展的支持。"
 text: "KODEX TECHNOLOGY (PVT) LTD is a team of experienced mobile and web applications and website builders measuring dozens of completed projects. We build and develop mobile applications for several top platforms, including Android  & IOS."
 
 buttons:
@@ -10,7 +10,7 @@ buttons:
   - label: "View More"
     link: ""
 
-image: "images/home/hero/bill-sitting.png"
+image: "images/home/Logo/OpenHubLogo.png"
 
 items:
   - icon: "fas fa-user"
