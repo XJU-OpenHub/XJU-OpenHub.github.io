@@ -1,3 +1,3 @@
 ---
-title: "XJU OPEN HUB"
+title: "OPEN HUB"
 ---
