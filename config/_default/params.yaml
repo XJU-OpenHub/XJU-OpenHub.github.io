@@ -1,8 +1,7 @@
-title: "Agency Web"
-description: "Experienced mobile and web applications and website builders measuring."
+title: "XJU OPEN HUB"
+description: "新疆大学计算机科学与技术专业的资源库，旨在为计算机学生提供学习和发展的支持。"
 images: 
-  - "images/home/hero/bill-sitting.png"
-
+  - "images/home/Logo/OpenHubLogo.png"
 # logo: "images/shared/logo.png"
 
 favicons:
@@ -11,8 +10,7 @@ favicons:
   faviconColor: "#000000"
 
 contact:
-  - "trungkienspktnd@gamail.com"
-  - "207.555.0119"
+  - "1783866380@qq.com"
 
 social:
   dribbble: "#"
@@ -20,5 +18,5 @@ social:
   facebook: "#"
   twitter: "#"
 
-copyright: "© 2022 Agency Web All Rights Reserved"
+copyright: "Copyright © 2026 Xju Open Hub All Rights Reserved"
 
